@@ -2,8 +2,6 @@
 
 A lightweight Chrome/Edge browser extension that gives you a live, at-a-glance view of your [Perplexity AI](https://www.perplexity.ai) account limits, query usage, and connector quotas — without leaving whatever tab you're on.
 
-![Extension popup preview](docs/preview.png)
-
 ---
 
 ## Features
